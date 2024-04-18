@@ -1,8 +1,6 @@
-### Hi there, I'm Danylo Varlyhin 👋
+## Hi there, I'm Danylo Varlyhin 👋
 
-## I'm a FullStack JS developer!
-
-I am a full-stack software engineer proficient in developing web applications and services in JavaScript and TypeScript using React, Next.js, Express, and NestJS. I am responsible and goal oriented, so I always find the best ways to accomplish tasks, keeping business in the first place.
+I am a full-stack software engineer proficient in developing web applications and services in JavaScript and TypeScript using React, Next.js, Express, and NestJS. I am responsible and goal-oriented, so I always find the best ways to accomplish tasks, keeping business in the first place.
 
 ### Contact with me!
 
