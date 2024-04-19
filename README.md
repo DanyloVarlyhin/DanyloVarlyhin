@@ -9,7 +9,7 @@ I am a full-stack software engineer proficient in developing web applications an
 </a>
 
 
-### Languages and tools:
+### Languages and tools
 
 <p float="left">
   <img alt="JS" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="50" height="50" />
