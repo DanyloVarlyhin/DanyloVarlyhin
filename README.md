@@ -2,13 +2,6 @@
 
 I am a full-stack software engineer proficient in developing web applications and services in JavaScript and TypeScript using React, Next.js, Express, and NestJS. I am responsible and goal-oriented, so I always find the best ways to accomplish tasks, keeping business in the first place.
 
-### Contact with me
-
-<a href="https://www.linkedin.com/in/danylo-varlyhin-2892a8205/" target="_blank">
-  <img alt="linkedin" src="https://camo.githubusercontent.com/b5ca0d668668ff247047e3ae990f6b19ba143fe20b0b1413cf1072bdfb911182/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" />
-</a>
-
-
 ### Languages and tools
 
 <p float="left">
